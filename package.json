@@ -1,0 +1,11 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "this is a developer tiem rest api",
+  "main": "index.js",
+  "scripts": {
+    "tanvir"  :   "json-server --watch db.json --port 4040"
+  },
+  "author": "tanvir1237",
+  "license": "ISC"
+}

@@ -1,0 +1,146 @@
+{
+    "devs"  : [
+        {
+            "id"        : 1,
+            "name"      : "tanvir rohman",
+            "age"       : 24,
+            "Skill"     : "javascript Developer",
+            "location"  : "Dhaka",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-1/p160x160/116589385_1536610286510237_7849078020247804617_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=LDGrcmB4K9oAX9Pbi3Y&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_F7_mfWlDMdBEg-MuWa83GITrJdciyIjSUv0maX9Z4WQ&oe=622CC3FF"
+
+        },
+        {
+            "id"        : 2,
+            "name"      : "asrafull haque",
+            "age"       : 30,
+            "Skill"     : "javascript Developer",
+            "location"  : "mirpur",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/c0.12.200.200a/p200x200/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BDrK4pxNbD8AX9Nzy1b&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8_BB8i8EP4c5ZFQEflB5CHOR4ARVpXnMpA_xlfZzDSgw&oe=620BE41D"
+
+        },
+        {
+            "id"        : 3,
+            "name"      : "jillur Rahman",
+            "age"       : 25,
+            "Skill"     : "Wordpress Developer",
+            "location"  : "Dinaspur",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.18169-9/20245527_731775556947810_8489243968971582970_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=j-jqOhxPrX0AX_rD4AG&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_Ar_USSgVdGOzJx2MrLHPjgmrVhBt7XmCYvFkgouzOOg&oe=622F6208"
+
+        }
+    ],
+
+
+    "student"  : [
+        {
+            "id"        : 1,
+            "name"      : "tanvir rohman",
+            "age"       : 24,
+            "Skill"     : "javascript Developer",
+            "location"  : "Dhaka",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-1/p160x160/116589385_1536610286510237_7849078020247804617_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=LDGrcmB4K9oAX9Pbi3Y&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_F7_mfWlDMdBEg-MuWa83GITrJdciyIjSUv0maX9Z4WQ&oe=622CC3FF"
+
+        },
+        {
+            "id"        : 2,
+            "name"      : "asrafull haque",
+            "age"       : 30,
+            "Skill"     : "javascript Developer",
+            "location"  : "mirpur",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/c0.12.200.200a/p200x200/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BDrK4pxNbD8AX9Nzy1b&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8_BB8i8EP4c5ZFQEflB5CHOR4ARVpXnMpA_xlfZzDSgw&oe=620BE41D"
+
+        },
+        {
+            "id"        : 3,
+            "name"      : "jillur Rahman",
+            "age"       : 25,
+            "Skill"     : "Wordpress Developer",
+            "location"  : "Dinaspur",
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.18169-9/20245527_731775556947810_8489243968971582970_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=j-jqOhxPrX0AX_rD4AG&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_Ar_USSgVdGOzJx2MrLHPjgmrVhBt7XmCYvFkgouzOOg&oe=622F6208"
+
+        }
+    ],
+
+    "product"  : [
+        {
+            "id"        : 1,
+            "name"      : "tanvir rohman",
+            "age"       : 24,
+            "Skill"     : "javascript Developer",
+            "price"     : 270,
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-1/p160x160/116589385_1536610286510237_7849078020247804617_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=LDGrcmB4K9oAX9Pbi3Y&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_F7_mfWlDMdBEg-MuWa83GITrJdciyIjSUv0maX9Z4WQ&oe=622CC3FF"
+
+        },
+        {
+            "id"        : 2,
+            "name"      : "asrafull haque",
+            "age"       : 30,
+            "Skill"     : "javascript Developer",
+            "price"     : 270,
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/c0.12.200.200a/p200x200/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BDrK4pxNbD8AX9Nzy1b&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8_BB8i8EP4c5ZFQEflB5CHOR4ARVpXnMpA_xlfZzDSgw&oe=620BE41D"
+
+        },
+        {
+            "id"        : 3,
+            "name"      : "jillur Rahman",
+            "age"       : 25,
+            "Skill"     : "Wordpress Developer",
+            "price"     : 270,
+            "photo"     : "https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.18169-9/20245527_731775556947810_8489243968971582970_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=j-jqOhxPrX0AX_rD4AG&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_Ar_USSgVdGOzJx2MrLHPjgmrVhBt7XmCYvFkgouzOOg&oe=622F6208"
+
+        }
+
+
+    ],
+
+
+    "product_catagory"  : [
+        { 
+            "id"          :  "size",
+            "M"           : "M",
+            "xl"          : "Xl",
+            "xxl"         : "xxl",
+            "s"           : "s"
+
+        },
+        {
+            "id"         : "color",
+            "Red"        : "#ff0000",
+            "black"      : "#000",
+            "with"       : "#fff",
+            "blue"       : "blue"
+
+        }
+
+    ],
+
+    "product_brand"  : [
+        { 
+            "id"          :  "mi",
+            ""           : "M",
+            "xl"          : "Xl",
+            "xxl"         : "xxl",
+            "s"           : "s"
+
+        },
+        {
+            "id"         : "color",
+            "Red"        : "#ff0000",
+            "black"      : "#000",
+            "with"       : "#fff",
+            "blue"       : "blue"
+
+        }
+       
+
+
+    ]
+
+
+    
+
+
+
+   
+
+    
+}
